@@ -1,0 +1,16 @@
+* {
+  font-size: 1rem;
+}
+
+html {
+  font-size: calc(60% + 0.8vmin);
+}
+
+img {
+  width: 30rem;
+}
+
+main {
+  max-width: 40rem;
+  margin: 0 auto;
+}
